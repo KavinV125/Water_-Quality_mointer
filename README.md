@@ -66,6 +66,16 @@ Any abnormal value triggers **instant alerts**, enabling proactive intervention.
 
 ## **OUTPUT**
 ![OUTPUT](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/IMG-20231110-WA0007.jpg)
+## **Web Application UI**
+
+## **Login**
+![login](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Web%20Application/loginpage.png)
+
+## **Home page**
+![home](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Web%20Application/home.png)
+
+## **Connectivity**
+![con](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Web%20Application/connectivity.png)
 ## Final Summary
 
 The Water Quality Monitoring System addresses a critical need for continuous and reliable water safety assurance in both industrial and domestic environments. By combining real-time monitoring of key parameters such as pH, TDS, turbidity, and ORP with IoT-enabled sensing and cloud-based analytics, the system eliminates reliance on slow, manual testing methods. It empowers users to detect contamination instantly, make informed decisions, and maintain compliance with water quality standards. Designed to be scalable, accurate, and user-friendly, this solution contributes to improved public health, operational efficiency, and long-term water sustainability.
