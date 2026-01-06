@@ -44,11 +44,11 @@ This project presents an **IoT-enabled Water Quality Monitoring System** that co
 ## **ORP**
 ![ORP](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/ORP.png)
 
-## **RASPBERRY PI 4 **
+## **RASPBERRY PI 4**
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-red)
 ![PI](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/Raspberry-Pi-4-Model-B-Large.jpg)
 
-## **FINAL PRODUCT **
+## **FINAL PRODUCT**
 ![PARAMETERS](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02156.JPG)
 ---
 
