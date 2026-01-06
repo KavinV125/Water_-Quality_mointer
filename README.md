@@ -41,5 +41,5 @@ Any abnormal value triggers **instant alerts**, enabling proactive intervention.
 
 ---
 
-## 🏗️ System Architecture (Conceptual)
+
 
