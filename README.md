@@ -22,6 +22,7 @@ This project presents an **IoT-enabled Water Quality Monitoring System** that co
 | Reactive response | Operational losses |
 
 ---
+![ ]([https://example.com/image.png](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02132.JPG))
 
 ## 🎯 Key Water Quality Parameters Monitored
 
