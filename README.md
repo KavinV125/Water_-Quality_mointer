@@ -32,6 +32,23 @@ This project presents an **IoT-enabled Water Quality Monitoring System** that co
 | **TDS** | Total dissolved solids | WHO / BIS |
 | **Turbidity** | Suspended particles & clarity | WHO / BIS |
 | **ORP** | Disinfection effectiveness indicator | AWWA / EPA |
+## **PH**
+![PH](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/PH.jpg)
+
+## **TDS**
+![TDS](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/TDS.jpg)
+
+## **TURBIDITY**
+![TUR](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/TURUBIDITY.jpg)
+
+## **ORP**
+![ORP](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/ORP.png)
+
+## **RASPBERRY PI 4 **
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-red)
+![PI](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/COMPONENTS%20IMAGES/Raspberry-Pi-4-Model-B-Large.jpg)
+
+## **FINAL PRODUCT **
 ![PARAMETERS](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02156.JPG)
 ---
 
@@ -41,7 +58,10 @@ The system continuously monitors water quality using **industrial-grade sensors*
 Any abnormal value triggers **instant alerts**, enabling proactive intervention.
 
 ---
+
 ![SENSORS](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02159.JPG)
+
+## **OUTPUT**
 ![OUTPUT](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/IMG-20231110-WA0007.jpg)
 
 
