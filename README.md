@@ -41,6 +41,7 @@ The system continuously monitors water quality using **industrial-grade sensors*
 Any abnormal value triggers **instant alerts**, enabling proactive intervention.
 
 ---
+![OUTPUT](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/IMG-20231110-WA0007.jpg)
 
 
 
