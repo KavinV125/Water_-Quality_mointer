@@ -3,7 +3,7 @@
 > **Real-time detection of water contamination using IoT & cloud intelligence**
 
 ---
-
+![KIT](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02132.JPG)
 ## 📌 Overview
 
 Ensuring access to **safe drinking water** is a critical challenge for industries, institutions, and communities. Water contamination often goes undetected due to **manual testing, delayed lab reports, or fragmented monitoring systems**.  
@@ -22,7 +22,7 @@ This project presents an **IoT-enabled Water Quality Monitoring System** that co
 | Reactive response | Operational losses |
 
 ---
-![KIT](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02132.JPG)
+
 
 ## 🎯 Key Water Quality Parameters Monitored
 
@@ -56,7 +56,10 @@ This project presents an **IoT-enabled Water Quality Monitoring System** that co
 
 The system continuously monitors water quality using **industrial-grade sensors**, processes data using **edge computing (ESP32 / Raspberry Pi)**, and visualizes insights on a **cloud dashboard**.  
 Any abnormal value triggers **instant alerts**, enabling proactive intervention.
-
+## **Tech Used :**
+![TECH](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Methodology/tech.png)
+## **Flow **
+![flow](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Methodology/flow.png)
 ---
 
 ![SENSORS](https://github.com/KavinV125/Water_-Quality_mointer/blob/main/Product%20image/High%20Quality%20Image/SVA02159.JPG)
